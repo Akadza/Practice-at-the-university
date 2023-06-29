@@ -1,0 +1,4 @@
+﻿  sort_programm.cpp
+D:\Programming\c++\sort\sort_programm\sort_programm\sort_programm\sort_programm.cpp(18,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\c++\sort\sort_programm\sort_programm\sort_programm\sort_programm.cpp(56,16): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+  sort_programm.vcxproj -> D:\Programming\c++\sort\sort_programm\sort_programm\x64\Debug\sort_programm.exe

@@ -1,0 +1,12 @@
+﻿  binary_tree.cpp
+D:\Programming\c++\Tail recursion\binary_tree\binary_tree\binary_tree.cpp(146,42): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+D:\Programming\c++\Tail recursion\binary_tree\binary_tree\binary_tree.cpp(146,34): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  binary_tree.vcxproj -> D:\Programming\c++\Tail recursion\binary_tree\x64\Debug\binary_tree.exe

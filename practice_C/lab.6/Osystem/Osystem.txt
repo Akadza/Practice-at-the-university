@@ -1,0 +1,10 @@
+Android 2007 Handset_Alliance 77.32
+DOS 1981 Tim_Paterson 17.23 
+FreeBSD 1963 Jordan_Hubbard 6.73
+inferno-OS 2007 Bell_Labs 5.64
+Linux 1991 Linus_Torvalds 5
+Mac OS 2001 Apple 15.76
+plan9 2003 Bell_Labs 2.4
+ReactOS 1996 Alex_linescu 4.83
+UNIX 1969 Dennis_Ritchie 13.23
+Windows 1985 Bill_Gates 76

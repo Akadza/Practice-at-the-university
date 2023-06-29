@@ -1,0 +1,8 @@
+﻿  binary_search.cpp
+D:\Programming\c++\binary_search\binary_search\binary_search\binary_search.cpp(109,16): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+D:\Programming\c++\binary_search\binary_search\binary_search\binary_search.cpp(123): warning C4715: simple_search: значение возвращается не при всех путях выполнения
+D:\Programming\c++\binary_search\binary_search\binary_search\binary_search.cpp(40): warning C4715: binarySearch_found_index: значение возвращается не при всех путях выполнения
+binary_search.obj : error LNK2019: ссылка на неразрешенный внешний символ "int __cdecl simple_search(struct account *,char *,int &)" (?simple_search@@YAHPEAUaccount@@PEADAEAH@Z) в функции main.
+    Указание на символы, которые определены и могут подойти:
+      "int __cdecl simple_search(struct account *,char *,int &,int)" (?simple_search@@YAHPEAUaccount@@PEADAEAHH@Z)
+D:\Programming\c++\binary_search\binary_search\x64\Debug\binary_search.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

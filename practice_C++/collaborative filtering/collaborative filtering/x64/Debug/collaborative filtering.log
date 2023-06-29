@@ -1,0 +1,3 @@
+﻿  collaborative filtering.cpp
+D:\Programming\c++\collaborative filtering\collaborative filtering\collaborative filtering.cpp(115): warning C4715: collFiltering::find_index: значение возвращается не при всех путях выполнения
+  collaborative filtering.vcxproj -> D:\Programming\c++\collaborative filtering\x64\Debug\collaborative filtering.exe

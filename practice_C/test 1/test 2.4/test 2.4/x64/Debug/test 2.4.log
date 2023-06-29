@@ -1,0 +1,5 @@
+﻿  test 2.4.cpp
+D:\Programming\C\test 1\test 2.4\test 2.4\test 2.4.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\C\test 1\test 2.4\test 2.4\test 2.4.cpp(27,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Programming\C\test 1\test 2.4\test 2.4\test 2.4.cpp(28,16): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+  test 2.4.vcxproj -> D:\Programming\C\test 1\test 2.4\x64\Debug\test 2.4.exe

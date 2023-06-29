@@ -1,0 +1,4 @@
+﻿  test 4.6.cpp
+D:\Programming\C\test 1\test 4.6\test 4.6\test 4.6.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\C\test 1\test 4.6\test 4.6\test 4.6.cpp(31,9): warning C4101: value: неиспользованная локальная переменная
+  test 4.6.vcxproj -> D:\Programming\C\test 1\test 4.6\x64\Debug\test 4.6.exe

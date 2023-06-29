@@ -1,0 +1,10 @@
+McDonalds 385 4
+KFC 399 3
+Subway 460 2
+Chipotle_Mexican_Grill 470 2
+Burger_King 424 3
+Taco_bell 390 2
+Dairy_Queen 370 3
+Wendy's 290 2
+Sonic_America's_Drive-In 470 2
+Chick-fil-A 399 4

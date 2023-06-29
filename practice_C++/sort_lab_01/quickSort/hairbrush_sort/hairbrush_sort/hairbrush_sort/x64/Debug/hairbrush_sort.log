@@ -1,0 +1,4 @@
+﻿  hairbrush_sort.cpp
+D:\Programming\c++\sort\quickSort\hairbrush_sort\hairbrush_sort\hairbrush_sort\hairbrush_sort.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\c++\sort\quickSort\hairbrush_sort\hairbrush_sort\hairbrush_sort\hairbrush_sort.cpp(64,16): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+  hairbrush_sort.vcxproj -> D:\Programming\c++\sort\quickSort\hairbrush_sort\hairbrush_sort\x64\Debug\hairbrush_sort.exe

@@ -1,0 +1,3 @@
+﻿  choose.cpp
+D:\Programming\c++\sort\quickSort\sort_choose\choose\choose\choose.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  choose.vcxproj -> D:\Programming\c++\sort\quickSort\sort_choose\choose\x64\Debug\choose.exe

@@ -1,0 +1,4 @@
+﻿  HashMap.cpp
+D:\Programming\c++\HashMap\HashMap\HashMap\HashMap.cpp(28,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\c++\HashMap\HashMap\HashMap\HashMap.cpp(122,37): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  HashMap.vcxproj -> D:\Programming\c++\HashMap\HashMap\x64\Debug\HashMap.exe

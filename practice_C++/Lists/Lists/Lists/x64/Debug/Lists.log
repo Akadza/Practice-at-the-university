@@ -1,0 +1,5 @@
+﻿  Lists.cpp
+D:\Programming\c++\Lists\Lists\Lists\Lists.cpp(59,20): warning C4018: >: несоответствие типов со знаком и без знака
+D:\Programming\c++\Lists\Lists\Lists\Lists.cpp(87,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\c++\Lists\Lists\Lists\Lists.cpp(153,31): warning C4018: <: несоответствие типов со знаком и без знака
+  Lists.vcxproj -> D:\Programming\c++\Lists\Lists\x64\Debug\Lists.exe

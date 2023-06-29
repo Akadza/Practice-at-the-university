@@ -1,0 +1,5 @@
+﻿  lab.5.111.cpp
+D:\Programming\C\test 1\lab.5.111\lab.5.111\lab.5.111.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\C\test 1\lab.5.111\lab.5.111\lab.5.111.cpp(32,9): error C3861: gets: идентификатор не найден
+D:\Programming\C\test 1\lab.5.111\lab.5.111\lab.5.111.cpp(15,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Programming\C\test 1\lab.5.111\lab.5.111\lab.5.111.cpp(27,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

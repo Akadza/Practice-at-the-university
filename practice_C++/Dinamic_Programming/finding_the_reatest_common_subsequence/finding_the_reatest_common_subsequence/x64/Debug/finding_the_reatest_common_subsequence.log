@@ -1,0 +1,4 @@
+﻿  finding_the_reatest_common_subsequence.cpp
+D:\Programming\c++\Dinamic_Programming\finding_the_reatest_common_subsequence\finding_the_reatest_common_subsequence\finding_the_reatest_common_subsequence.cpp(53,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Programming\c++\Dinamic_Programming\finding_the_reatest_common_subsequence\finding_the_reatest_common_subsequence\finding_the_reatest_common_subsequence.cpp(54,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  finding_the_reatest_common_subsequence.vcxproj -> D:\Programming\c++\Dinamic_Programming\finding_the_reatest_common_subsequence\x64\Debug\finding_the_reatest_common_subsequence.exe

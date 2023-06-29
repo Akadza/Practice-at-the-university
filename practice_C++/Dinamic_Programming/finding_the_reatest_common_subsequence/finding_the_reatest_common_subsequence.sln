@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "finding_the_reatest_common_subsequence", "finding_the_reatest_common_subsequence\finding_the_reatest_common_subsequence.vcxproj", "{A2C30809-48FE-456E-A329-2AD0DA74B8EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C30809-48FE-456E-A329-2AD0DA74B8EF}.Debug|x64.ActiveCfg = Debug|x64
+		{A2C30809-48FE-456E-A329-2AD0DA74B8EF}.Debug|x64.Build.0 = Debug|x64
+		{A2C30809-48FE-456E-A329-2AD0DA74B8EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{A2C30809-48FE-456E-A329-2AD0DA74B8EF}.Debug|x86.Build.0 = Debug|Win32
+		{A2C30809-48FE-456E-A329-2AD0DA74B8EF}.Release|x64.ActiveCfg = Release|x64
+		{A2C30809-48FE-456E-A329-2AD0DA74B8EF}.Release|x64.Build.0 = Release|x64
+		{A2C30809-48FE-456E-A329-2AD0DA74B8EF}.Release|x86.ActiveCfg = Release|Win32
+		{A2C30809-48FE-456E-A329-2AD0DA74B8EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD2C6FFC-7EDF-4ED5-98BF-CEC560CA54A4}
+	EndGlobalSection
+EndGlobal

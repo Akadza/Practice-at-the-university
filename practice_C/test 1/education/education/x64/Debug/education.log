@@ -1,0 +1,3 @@
+﻿  education.cpp
+D:\Programming\C\test 1\education\education\education.cpp(19,9): warning C4101: array: неиспользованная локальная переменная
+  education.vcxproj -> D:\Programming\C\test 1\education\x64\Debug\education.exe

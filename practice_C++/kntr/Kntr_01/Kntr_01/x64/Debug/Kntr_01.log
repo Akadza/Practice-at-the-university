@@ -1,0 +1,4 @@
+﻿  Kntr_01.cpp
+D:\Programming\c++\kntr\Kntr_01\Kntr_01\Kntr_01.cpp(63,16): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+D:\Programming\c++\kntr\Kntr_01\Kntr_01\Kntr_01.cpp(69,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Kntr_01.vcxproj -> D:\Programming\c++\kntr\Kntr_01\x64\Debug\Kntr_01.exe

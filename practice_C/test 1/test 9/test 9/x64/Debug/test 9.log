@@ -1,0 +1,4 @@
+﻿  test 9.cpp
+D:\Programming\C\test 1\test 9\test 9\test 9.cpp(17,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+D:\Programming\C\test 1\test 9\test 9\test 9.cpp(18,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  test 9.vcxproj -> D:\Programming\C\test 1\test 9\x64\Debug\test 9.exe
